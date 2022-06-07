@@ -1,6 +1,6 @@
-# YogaTimer
-De opensource versie van YogaTimer - The Opensource version of Yoga Timer
-# DELEN IS NIET MOGELIJK!
-Deel alleen met deze **GITHUB** link.
-# SHARING IS NOT POSSIBLE
-Share only with this **GITHUB** link.
+# Yoga Timer
+Welkom bij de Yoga Timer github page.
+Hier kunt u, problemen melden en toevoegingen vragen!
+# MEER INFO
+Voor meer informatie ga naar www.svendev.ga
+# www.svendev.ga
